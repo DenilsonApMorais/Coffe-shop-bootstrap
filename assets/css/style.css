@@ -29,3 +29,7 @@
 main{
     margin-top: 5rem;
 }
+.card-menu img{
+    height: 300px;
+    object-fit: cover;
+}
